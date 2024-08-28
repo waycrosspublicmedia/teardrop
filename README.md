@@ -4,7 +4,7 @@ This repository is unofficial, there will be no raw source code, the game isn't 
 <br>
 
 <p align="center">
-  <img src="https://github.com/soulslimm/myTeardrop/blob/v1.2.2/images/Logo.png?raw=true" />
+  <img src="https://github.com/soulslimm/myTeardrop/blob/v1.2.2/images/Logo.png?raw=true" width="500">
 </p>
 
 <h6 align="center">"Take care of your awesome little Teardrop. <br>You could also just feed her lemons for her entire life!<br> All that matters is that you're now Teardrop's best friend."</h6>
